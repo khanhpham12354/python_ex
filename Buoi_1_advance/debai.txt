@@ -1,0 +1,4 @@
+A bit of logic:
+1.Order the input string by ASC (a -> z, 0 -> 9) with any string
+2.Generate the output like: A(5), B(3), C(1) with input like ABBAAACB
+3.Write a program that prints the next 20 leap years (enter year or if not, get current year as default)
